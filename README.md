@@ -1,6 +1,7 @@
 
 # Academic Scholar : Connecting Minds for Academic Excellence
-![Academic Scholar Logo]("C:\Users\91748\Downloads\AS.png")
+![AS (1)](https://github.com/priyankachaurasiaa/AcademicScholar/assets/134799886/02689db5-b64a-4d2b-9d96-4e073935c884)
+
 
 **Project Description:**
 AcademicScholar is a collaborative social network for academic communities. 
